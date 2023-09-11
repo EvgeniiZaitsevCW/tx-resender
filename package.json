@@ -1,0 +1,17 @@
+{
+  "name": "tx-resender",
+  "version": "1.0.0",
+  "description": "An utility for re-sending bare transactions from one blockchain to another",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Evgenii Zaitsev",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "ethers": "^6.7.1"
+  }
+}
